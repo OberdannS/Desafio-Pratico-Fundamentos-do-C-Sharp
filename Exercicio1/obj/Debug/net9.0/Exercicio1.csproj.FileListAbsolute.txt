@@ -1,0 +1,15 @@
+/home/oberdan/Documents/GitHub/Desafio-Pratico-Fundamentos-do-C-Sharp/Exercicio1/bin/Debug/net9.0/Exercicio1
+/home/oberdan/Documents/GitHub/Desafio-Pratico-Fundamentos-do-C-Sharp/Exercicio1/bin/Debug/net9.0/Exercicio1.deps.json
+/home/oberdan/Documents/GitHub/Desafio-Pratico-Fundamentos-do-C-Sharp/Exercicio1/bin/Debug/net9.0/Exercicio1.runtimeconfig.json
+/home/oberdan/Documents/GitHub/Desafio-Pratico-Fundamentos-do-C-Sharp/Exercicio1/bin/Debug/net9.0/Exercicio1.dll
+/home/oberdan/Documents/GitHub/Desafio-Pratico-Fundamentos-do-C-Sharp/Exercicio1/bin/Debug/net9.0/Exercicio1.pdb
+/home/oberdan/Documents/GitHub/Desafio-Pratico-Fundamentos-do-C-Sharp/Exercicio1/obj/Debug/net9.0/Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+/home/oberdan/Documents/GitHub/Desafio-Pratico-Fundamentos-do-C-Sharp/Exercicio1/obj/Debug/net9.0/Exercicio1.AssemblyInfoInputs.cache
+/home/oberdan/Documents/GitHub/Desafio-Pratico-Fundamentos-do-C-Sharp/Exercicio1/obj/Debug/net9.0/Exercicio1.AssemblyInfo.cs
+/home/oberdan/Documents/GitHub/Desafio-Pratico-Fundamentos-do-C-Sharp/Exercicio1/obj/Debug/net9.0/Exercicio1.csproj.CoreCompileInputs.cache
+/home/oberdan/Documents/GitHub/Desafio-Pratico-Fundamentos-do-C-Sharp/Exercicio1/obj/Debug/net9.0/Exercicio1.sourcelink.json
+/home/oberdan/Documents/GitHub/Desafio-Pratico-Fundamentos-do-C-Sharp/Exercicio1/obj/Debug/net9.0/Exercicio1.dll
+/home/oberdan/Documents/GitHub/Desafio-Pratico-Fundamentos-do-C-Sharp/Exercicio1/obj/Debug/net9.0/refint/Exercicio1.dll
+/home/oberdan/Documents/GitHub/Desafio-Pratico-Fundamentos-do-C-Sharp/Exercicio1/obj/Debug/net9.0/Exercicio1.pdb
+/home/oberdan/Documents/GitHub/Desafio-Pratico-Fundamentos-do-C-Sharp/Exercicio1/obj/Debug/net9.0/Exercicio1.genruntimeconfig.cache
+/home/oberdan/Documents/GitHub/Desafio-Pratico-Fundamentos-do-C-Sharp/Exercicio1/obj/Debug/net9.0/ref/Exercicio1.dll
